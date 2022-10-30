@@ -1,4 +1,3 @@
-const { futimesSync } = require('fs');
 const ws = require('ws');
 
 const wss = new ws.Server(
